@@ -1,0 +1,226 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>localghost.dev - posts about links</title>
+  <subtitle>A feed of the latest link recommendations from localghost.dev</subtitle>
+  <link href="https://localghost.dev/links.xml" rel="self"/>
+  <link href="https://localghost.dev/"/>
+  <updated>2024-12-08T00:00:00Z</updated>
+  <id>https://localghost.dev/</id>
+  <author>
+    <name>Sophie Koonin</name>
+    <email>sophie@localghost.dev</email>
+  </author>
+    
+    <entry>
+      <title>Good links: 8 December 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-12-08/"/>
+      <updated>2024-12-08T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-12-08/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://phirephoenix.com/blog/2024-11-05/modernity&quot;&gt;modernity is stupid: a rant not about politics&lt;/a&gt; - every word of this post resonates, and you should read it.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 22 September 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-09-22/"/>
+      <updated>2024-09-22T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-09-22/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.nicchan.me/&quot;&gt;Nic Chan&lt;/a&gt; - Nic has just finished rebuilding her website and it’s INCREDIBLE! Seriously just look at it&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://css-irl.info/limitation-breeds-creativity/&quot;&gt;CSS { In Real Life } | Limitation Breeds Creativity: A Study in Composition with Custom Properties&lt;/a&gt; - Michelle has done some (characteristically) amazing things with a handful of divs.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.bram.us/2024/09/14/introducing-bramus-caniuse-cli-a-cli-tool-for-can-i-use/&quot;&gt;Introducing @bramus/caniuse-cli, a CLI tool for “Can I Use …”&lt;/a&gt; - This is going to be very useful!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://alistairshepherd.uk/writing/selling-web-project/&quot;&gt;Selling a small front-end web project — what I learned - Alistair Shepherd&lt;/a&gt; - “In mid-2024 I sold a small unmonetised web project of mine called My Top for Spotify. This is my experience of the sale and what I learned!”&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://shkspr.mobi/blog/2024/09/http-ftp-and-dict/&quot;&gt;http:, ftp:, and ... dict:?&lt;/a&gt; - Terence uncovers a long-forgotten protocol.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 15 September 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-09-15/"/>
+      <updated>2024-09-15T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-09-15/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://modem.io/blog/blog-monetization/&quot;&gt;How to Monetize a Blog&lt;/a&gt; - Just read it, ok? I promise it’s extremely worth it.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 18 August 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-08-18/"/>
+      <updated>2024-08-18T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-08-18/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://heydonworks.com/article/the-area-element/&quot;&gt;The area element&lt;/a&gt; - I’m really enjoying Heydon’s&lt;br /&gt;
+HTML element safari, from the better-known to the lesser-known. This will certainly fall into the latter camp for a lot of folks!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 12 May 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-05-12/"/>
+      <updated>2024-05-12T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-05-12/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.takahe.org.nz/heat-death-of-the-internet/?utm_medium=feed&amp;amp;utm_source=feedpress.me&amp;amp;utm_campaign=Feed%3A+coryd-links&quot;&gt;Heat Death of the Internet - takahē&lt;/a&gt; - “The first page of Google results are links to pages that have scraped other pages for information from other pages that have been scraped for information. All the sources seem to link back to one another. There is no origin. The photos on the page look weird. The hands are disfigured. There is no image credit.”&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://simonwillison.net/2024/May/8/slop/&quot;&gt;Slop is the new name for unwanted AI-generated content&lt;/a&gt; - I love this term, it perfectly sums up what garbage is being created with AI.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 28 April 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-04-28/"/>
+      <updated>2024-04-28T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-04-28/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://rachelandrew.co.uk/archives/2024/04/21/on-having-no-visual-memory/&quot;&gt;On having no visual memory&lt;/a&gt; - Rachel Andrew shares her experiences of what it’s like to have aphantasia.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://meryl.net/why-captioned-videos-are-important/&quot;&gt;Why Good Captioned Videos Are Important – Meryl.net home&lt;/a&gt; - A really insightful guide to what makes good, accessible video captions. Plain is always better, folks!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 14 April 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-04-14/"/>
+      <updated>2024-04-14T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-04-14/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://bjhess.com/posts/you-re-a-blogger-not-an-essayist&quot;&gt;You’re a Blogger, Not an Essayist - I am BARRY HESS&lt;/a&gt; - “You don’t need to labor over your posts. You don’t need to have perfect grammar or spelling. You don’t need to leave a post in draft for seven months, pouring over research. (Though you can if you want!) You don’t really need to have an idea.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;Just write. Then share.”&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://heydonworks.com/article/testing-html-with-modern-css/&quot;&gt;Testing HTML With Modern CSS: HeydonWorks&lt;/a&gt; - Heydon’s useful CSS bag of tricks for diagnosing poor HTML semantics.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coryd.dev/posts/2024/a-retrospective-on-a-year-without-streaming-music/?utm_medium=feed&amp;amp;utm_source=feedpress.me&amp;amp;utm_campaign=Feed%3A+coryd&quot;&gt;A retrospective on a year without streaming music // Cory Dransfeldt&lt;/a&gt; - Streaming is the norm now - I certainly do it, via Apple Music - but some people are going back to buying mp3s and consuming music that way. It’s certainly better for the artists.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 31 March 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-03-31/"/>
+      <updated>2024-03-31T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-03-31/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://downpour.games/~terry/a-proper-cup-of-tea&quot;&gt;&amp;quot;a proper cup of tea&amp;quot; by Terry&lt;/a&gt; - An absolutely joyously chaotic tea-making game. I recommend trying all the different combinations for maximum mirth.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 17 March 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-03-17/"/>
+      <updated>2024-03-17T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-03-17/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://theinternet.review/2024/03/13/ready-to-party-like-its-1999/&quot;&gt;Why I’m Ready to Party Like It’s 1999…Again&lt;/a&gt; - Jared White reflects on his early experiences of the web, and suggests maybe we’re ready to do the 90s web again…&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 10 March 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-03-10/"/>
+      <updated>2024-03-10T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-03-10/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://piccalil.li/blog/some-little-ways-im-using-css-has-in-the-real-world/&quot;&gt;Some little ways I’m using CSS :has() in the real world - Piccalilli&lt;/a&gt; - Some great tips for one of my favourite recent CSS features.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lynnandtonic.com/thoughts/entries/case-study-2023-refresh/&quot;&gt;Case Study: lynnandtonic.com 2023 refresh&lt;/a&gt; - Lynn’s annual redesigns are a real joy, and this is a fascinating look into the inspiration and technique that went into the 2023 edition.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://notes.neatnik.net/2024/03/motive-as-a-filter&quot;&gt;Neatnik Notes · Motive as a filter&lt;/a&gt; - When you use a free email service like Gmail, what’s Google’s motive for offering it?&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 3 March 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-03-03/"/>
+      <updated>2024-03-03T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-03-03/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://nuejs.org/blog/tailwind-vs-semantic-css/&quot;&gt;Tailwind vs Semantic CSS&lt;/a&gt; - Found via Andy Bell&#39;s site - as he puts it, this post is pretty clearly biased towards semantic CSS &lt;em&gt;but&lt;/em&gt; I think it&#39;s pretty evident fromt his that bare-bones HTML with &amp;quot;plain old CSS&amp;quot; is a lot more performant than stuffing a page full of unnecessary divs and stacking utility classes.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chriscoyier.net/2024/02/28/where-im-at-on-the-whole-css-tricks-thing/&quot;&gt;Where I’m at on the whole CSS-Tricks thing&lt;/a&gt; - It was March 2022 when I sold CSS-Tricks to DigitalOcean. So it’s been just about 2 years now. This was me and my wife’s thinking: The negotiated sale price was fair. They are a big com…&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://coryd.dev/posts/2024/towards-a-quieter-friendlier-web/&quot;&gt;Towards a quieter, friendlier web • Cory Dransfeldt&lt;/a&gt; - &amp;quot;You aren&#39;t obligated to reply or participate in any discussion. Don&#39;t feel bad about not engaging if it doesn&#39;t serve you. Arguing on the internet is rarely healthy, dialogue and discussion certainly can be.&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2024/02/techniques-to-break-words.html&quot;&gt;Techniques to Break Words&lt;/a&gt; - A good collection of useful techniques to bookmark here!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://rss-is-dead.lol/&quot;&gt;RsS iS dEaD LOL&lt;/a&gt; - My colleague Paul made this brilliant little site for finding RSS feeds of people you follow on mastodon (and people they follow, etc)&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 25 February 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-02-25/"/>
+      <updated>2024-02-25T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-02-25/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://robbowen.digital/wrote-about/abandoned-side-projects/&quot;&gt;It&#39;s OK to abandon your side-project - Robb Owen&lt;/a&gt; - &amp;quot;We hear about all the side-project success stories, but what if we talked more openly about the ones that tanked?&amp;quot;&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://robinrendle.com/notes/mini-manifesto/&quot;&gt;Robin Rendle — Mini Manifesto&lt;/a&gt; - Robin has redone his homepage and it’s utterly glorious.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 18 February 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-02-18/"/>
+      <updated>2024-02-18T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-02-18/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://midnight.pub/&quot;&gt;The Midnight Pub&lt;/a&gt; - A tiny forum in the form of a virtual pub. It even has a speakeasy.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://frills.dev/blog/070224-this-website-is-personal-girls/&quot;&gt;This website is personal - Frills&lt;/a&gt; - I really identify with this post, and the feeling that my posts aren’t worth anything if they’re not useful in some way. In reality there are no rules at all about what you should post on a personal site!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://adrianroselli.com/2024/02/dont-disable-form-controls.html&quot;&gt;Don’t Disable Form Controls&lt;/a&gt; - Stop disabling submit buttons.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://computer.rip/2024-02-11-the-top-of-the-DNS-hierarchy.html&quot;&gt;the top of the DNS hierarchy&lt;/a&gt; - TLD nameservers are well-known, but what about the very top level - the root? An in-depth look at the thirteen root DNS servers.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://tonsky.me/blog/checkbox/&quot;&gt;In Loving Memory of Square Checkbox&lt;/a&gt; - How are we supposed to tell the difference now?&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 4 February 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-02-04/"/>
+      <updated>2024-02-04T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-02-04/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://hamatti.org/posts/please-dont-force-me-to-log-in/&quot;&gt;Please, don’t force me to log in&lt;/a&gt; - It feels like every website or connected device wants you to sign up before you can use it these days…&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://piccalil.li/blog/react-is-getting-a-bit-of-a-kicking-recently/&quot;&gt;It feels like React is getting a bit of a kicking recently - Piccalilli&lt;/a&gt; - There&#39;s a lot of React criticism floating around at the mo, much of it justified. I think people are quick to use it when they don&#39;t need to. But as someone working on a very big, very complex project that does benefit from a framework like React, I&#39;m glad Andy is taking a nuanced look at the debate.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://piccalil.li/blog/a-highly-configurable-switch-component-using-modern-css/&quot;&gt;A highly configurable switch component using modern CSS techniques - Piccalilli&lt;/a&gt; - We’ve all built plenty of switches out of checkboxes, I’m sure, but Andy has updated his technique to use some newer CSS features and produced a rather lovely result.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 28 January 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-01-28/"/>
+      <updated>2024-01-28T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-01-28/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.oldavista.com/&quot;&gt;Old&#39;aVista&lt;/a&gt; - Altavista was my first search engine (or should I say altavista+was+my+first+search+engine) and this is a delightful trip down memory lane.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://jvns.ca/blog/2024/01/26/inside-git/&quot;&gt;Inside .git&lt;/a&gt; - Legendary explainer of things Julia Evans has written a fascinating and understandable guide to what lives inside the .git folder.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://cari.institute/aesthetics&quot;&gt;CARI | Aesthetics&lt;/a&gt; - I shared this on Mastodon a while back but this is just so compelling, and some of these aesthetics come with a heady dose of nostalgia.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://www.fromjason.xyz/p/notebook/where-have-all-the-websites-gone/&quot;&gt;Where have all the websites gone?&lt;/a&gt; - A heartfelt lamentation for the human web.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://ohhelloana.blog/another-round-of-bookmarks/&quot;&gt;Oh Hello Ana&lt;/a&gt; - Ana Rodrigues has posted a very comprehensive list of good tech and web-related links.&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>Good links: 21 January 2024</title>
+      <link href="https://localghost.dev/blog/good-links-2024-01-21/"/>
+      <updated>2024-01-21T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/good-links-2024-01-21/</id>
+      <content type="html">&lt;ul&gt;
+&lt;li&gt;&lt;a href=&quot;https://aftermath.site/the-internet-is-full-of-ai-dogshit&quot;&gt;The Internet Is Full of AI Dogshit - Aftermath&lt;/a&gt; - How AI-generated content is ruining search engines for everyone.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://chriscoyier.net/2024/01/13/exposed-rss/&quot;&gt;Exposed RSS&lt;/a&gt; - I get sites not having an “RSS” for “Feed” link on their website while actually having an RSS feed. I don’t like it, but I get it. Maybe they picked an off-the-shelf t…&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://keith.is/posts/you-should-blog/&quot;&gt;You should blog | keith.is&lt;/a&gt; - Keith calls out for folks to make this the year of blogging about whatever the hell you want. He’s suggested some great places to get started!&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://lethain.com/layers-of-context/&quot;&gt;Layers of context.&lt;/a&gt; - Will Larson on the importance of thinking outside of your immediate context: why a change that seems like a great idea may not be so well received elsewhere in the organisation, and how you can get a better radar for these things.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://blog.cassidoo.co/post/annoyed-at-react/&quot;&gt;Kind of annoyed at React&lt;/a&gt; - Cassidy Williams shares her frustrations about React, echoing some of the things I’ve been feeling recently.&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://svgfm.chriskirknielsen.com/&quot;&gt;SVG Filter Maker&lt;/a&gt; - SVGFM, a node graph builder for SVG filters&lt;/li&gt;
+&lt;li&gt;&lt;a href=&quot;https://hidde.blog/sharing-links/&quot;&gt;Sharing links&lt;/a&gt; - Hidde&#39;s posted about sharing links on his own blog as well - great minds think alike!&lt;/li&gt;
+&lt;/ul&gt;
+</content>
+    </entry>
+</feed>

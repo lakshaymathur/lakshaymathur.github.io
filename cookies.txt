@@ -1,0 +1,12 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.media.social.lol	TRUE	/	FALSE	1999999999	__cf_bm	P9QrSrLrrq2Z7VO4aVwNV4W83lJUpjXdTEdBZAt8F7o-1734077264-1.0.1.1-UKeYxQ9Xm9CizEezLaESjS4Rm6G7fk6FdevvArJlo8vQjnoHpYE2hvgghI0RiKXyhgX0ZW84oJGGWU0XFFufRA
+media.social.lol	TRUE	/	FALSE	1999999999	SameSite	None
+.codepen.io	TRUE	/	FALSE	1999999999	__cf_bm	.HD4ncPtSnygSarRNtcua9NFfSjoNMLvW8nGpnWGoKY-1734077284-1.0.1.1-gSty0sFS0zrTVKI_6Jti8QkUfR.E_nlBklQpEOSMGwFKoM_2tcJT6OdKYrOygYnQ5EaZMkXqJda8zkw_qA7Kmg
+cpwebassets.codepen.io	TRUE	/	FALSE	1999999999	SameSite	None
+github.com	TRUE	/	FALSE	1999999999	_gh_sess	lQMy1hyB8n76T%2F71OCGcqfhUpLfMjckaKf4seO3JWp9glrPPdmlgpVsxBm6dHd5aLYq9OQ3Qdtu2r9L5MN%2B21Rck7U0tiyB9aB1jAd352sM7HZwG8s38cFZ06iqu9YqvUryq0O10a3ynrtYy8Z1FvIkiYRMyneSvLBJr2qgSha2jKAQ2JBM2EYX92wNKwIuDLoik1KG3dLupk3TRuHYMn%2BfZ1pZorFYuAlwz%2FHFnw2XHnt9%2FvIxKMFI3k2tMGP8an1nU8aGfJgSz2RIPe5Zycw%3D%3D--iv5%2Fdj8PSWdLkFd2--NQjng4wqz9G4bzjaCjQfHw%3D%3D
+github.com	TRUE	/	FALSE	1999999999	_octo	GH1.1.971842556.1734077326
+github.com	TRUE	/	FALSE	1999999999	logged_in	no
+github.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+app.fossa.com	TRUE	/	FALSE	1999999999	fossa.sid	s%3A0L7ImyEsYVkycDvDzEtuU_uS4XYyg1pM.ts7mXH7jLY%2BNkunSpsTVEbUcjsSnIcFzkFoWTtymwQk
+

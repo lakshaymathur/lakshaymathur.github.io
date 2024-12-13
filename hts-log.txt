@@ -1,0 +1,55 @@
+HTTrack3.49-2+htsswf+htsjava launched on Fri, 13 Dec 2024 13:35:04 at https://localghost.dev/ +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar
+(winhttrack -qwC2%Ps2u1%s%uN0%I0p3DaK0H0%kf2A25000%f#f -F "Mozilla/4.5 (compatible; HTTrack 3.0x; Windows 98)" -%F "<!-- Mirrored from %s%s by HTTrack Website Copier/3.x [XR&CO'2014], %s -->" -%l "en, *" https://localghost.dev/ -O1 "C:\My Web Sites\DhruvBlog" +*.png +*.gif +*.jpg +*.jpeg +*.css +*.js -ad.doubleclick.net/* -mime:application/foobar )
+
+Information, Warnings and Errors reported for this mirror:
+note:	the hts-log.txt file, and hts-cache folder, may contain sensitive information,
+	such as username/password authentication for websites mirrored in this project
+	do not share these files/folders if you want these information to remain private
+
+13:35:19	Error: 	"Not Found" (404) at link https://localghost.dev/linkss.xml (from https://localghost.dev/)
+13:39:11	Error: 	"Not Found" (404) at link https://localghost.dev/img/blog/fallow-starter.jpeg (from https://localghost.dev/blog/some-things-i-ve-been-enjoying-recently/)
+13:39:11	Error: 	"Not Found" (404) at link https://localghost.dev/img/blog/fallow-dessert.JPG (from https://localghost.dev/blog/some-things-i-ve-been-enjoying-recently/)
+13:39:11	Error: 	"Not Found" (404) at link https://localghost.dev/img/blog/2022-recap/murmurations.jpeg (from https://localghost.dev/blog/2022-the-year-in-lists/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1336281436685541376/fRSl8uJP_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1530342542075695104/u546yO_I_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1133122333290291200/xV9gO-D6_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1227157516125007872/wGv0kVwc_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/786039150667411456/t_0mWTZk_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1429504343875670016/zjwrjcGY_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1450166432654712833/_tvvPyQ8_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1515077650557149195/ZoR5WdFD_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1532932743939727360/x4owY3LL_normal.jpg (from https://localghost.dev/blog/things-experienced-speakers-wish-they-d-known/)
+13:39:11	Error: 	"Not Found" (404) at link https://pbs.twimg.com/profile_images/1412041452675383297/qD9K8Hh4_normal.jpg (from https://localghost.dev/blog/7-myths-designers-and-developers-believe-about-web-accessibility/)
+13:39:11	Error: 	"Not Found" (404) at link https://localghost.dev/blog/7-myths-designers-and-developers-believe-about-web-accessibility/nextjs.org/ (from https://localghost.dev/blog/7-myths-designers-and-developers-believe-about-web-accessibility/)
+13:39:11	Error: 	"Not Found" (404) at link https://localghost.dev/0221/06/the-right-tag-for-the-job-why-you-should-use-semantic-html/ (from https://localghost.dev/blog/start-at-the-beginning-the-importance-of-learning-the-basics/)
+13:39:31	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/SBoudrias/Inquirer.js/sponsor_button
+13:40:19	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/SBoudrias/Inquirer.js/hovercards/citation/sidebar_partial?tree_name=main
+13:40:24	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/SBoudrias/Inquirer.js/used_by_list
+13:40:26	Error: 	"Not Found" (404) at link https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/"/img/blog/phpcurrently.png" (from https://localghost.dev/blog/everything-should-have-an-api-adventures-in-trying-to-automate-stuff/)
+13:40:51	Warning: 	file not stored in cache due to bogus state (incomplete type with Not Acceptable (200), size 0): https://github.com/signup_check/username?suggest_usernames=true
+13:42:20	Error: 	Exit requested by shell or user
+13:42:21	Error: 	"Not Found" (404) at link https://github.com/SBoudrias/Inquirer.js/security/overall-count (from https://github.com/SBoudrias/Inquirer.js)
+13:42:30	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/blob/649e78147cbb6390a162ff842d4b21d53a233472/packages/demo/src/index.ts not scanned (follow robots meta tag)
+13:42:31	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Fconfirm%405.1.0 not scanned (follow robots meta tag)
+13:42:31	Error: 	"Not Found" (404) at link https://github.com/rknightuk/api/blob/main/services/const albums = await fetch(`https://ws.audioscrobbler.com/2.0/?method=user.gettopalbums (from https://github.com/rknightuk/api/blob/main/services/lastfm.js)
+13:42:31	Error: 	"Not Found" (404) at link https://github.com/rknightuk/api/blob/main/services/const tracks = await fetch(`https://ws.audioscrobbler.com/2.0/?method=user.gettoptracks (from https://github.com/rknightuk/api/blob/main/services/lastfm.js)
+13:42:31	Error: 	"Not Found" (404) at link https://github.com/rknightuk/api/blob/main/services/const artists = await fetch(`https://ws.audioscrobbler.com/2.0/?method=user.gettopartists (from https://github.com/rknightuk/api/blob/main/services/lastfm.js)
+13:42:32	Error: 	"Not Found" (404) at link https://github.com/email_validity_checks (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=SBoudrias%2FInquirer.js)
+13:42:32	Error: 	"Not Found" (404) at link https://github.com/password_validity_checks (from https://github.com/signup?ref_cta=Sign+up&ref_loc=header+logged+out&ref_page=%2F%3Cuser-name%3E%2F%3Crepo-name%3E&source=header-repo&source_repo=SBoudrias%2FInquirer.js)
+13:42:46	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/tree/chore/vitest-workspace not scanned (follow robots meta tag)
+13:42:46	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/tree/chore/ansi-escapes not scanned (follow robots meta tag)
+13:42:47	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/tree/fix/issue-1561 not scanned (follow robots meta tag)
+13:42:47	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/inquirer%4012.2.0 not scanned (follow robots meta tag)
+13:42:47	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/commit/5713287885155c0081fca4190c17c18c598d9602 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Ftesting%402.1.38 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Fselect%404.0.3 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Fsearch%403.0.3 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Frawlist%404.0.3 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Fprompts%407.2.0 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Fpassword%404.0.3 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Fnumber%403.0.3 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Finput%404.1.0 not scanned (follow robots meta tag)
+13:42:49	Warning: 	Link https://github.com/SBoudrias/Inquirer.js/releases/tag/%40inquirer%2Fexpand%404.0.3 not scanned (follow robots meta tag)
+
+HTTrack Website Copier/3.49-2 mirror complete in 7 minutes 46 seconds : 733 links scanned, 708 files written (101344369 bytes overall) [54905155 bytes received at 117822 bytes/sec], 62763675 bytes transferred using HTTP compression in 422 files, ratio 21%, 3.4 requests per connection
+(24 errors, 20 warnings, 0 messages)

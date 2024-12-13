@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>localghost.dev - posts about books</title>
+  <subtitle>A feed of the latest book recommendations from localghost.dev</subtitle>
+  <link href="https://localghost.dev/books.xml" rel="self"/>
+  <link href="https://localghost.dev/"/>
+  <updated>2024-12-08T10:24:56Z</updated>
+  <id>https://localghost.dev/</id>
+  <author>
+    <name>Sophie Koonin</name>
+    <email>sophie@localghost.dev</email>
+  </author>
+</feed>

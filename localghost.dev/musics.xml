@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>localghost.dev - posts about musics</title>
+  <subtitle>A feed of the latest music recommendations from localghost.dev</subtitle>
+  <link href="https://localghost.dev/musics.xml" rel="self"/>
+  <link href="https://localghost.dev/"/>
+  <updated>2024-01-30T00:00:00Z</updated>
+  <id>https://localghost.dev/</id>
+  <author>
+    <name>Sophie Koonin</name>
+    <email>sophie@localghost.dev</email>
+  </author>
+    
+    <entry>
+      <title>Listen to this: The Stand-In by Caitlin Rose</title>
+      <link href="https://localghost.dev/blog/listen-to-this-the-stand-in-by-caitlin-rose/"/>
+      <updated>2024-01-30T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/listen-to-this-the-stand-in-by-caitlin-rose/</id>
+      <content type="html">&lt;p&gt;At university I worked at Manchester Academy, and would often end up behind the bar at all sorts of gigs from pop, to metal, to folk. Metal gigs were always my favourite because the crowd were very nice to bar staff, whereas sometimes you&#39;d have &amp;quot;POUR OUT CANS&amp;quot; written on the sign in sheet and you knew it was going to be rowdy.&lt;/p&gt;
+&lt;p&gt;Anyway, one of the gigs I ended up working at was Caitlin Rose, a country singer hailing from Tenessee. A tiny gig in our smallest venue, Academy 3, where I could lean back against the bar and watch quite happily. I&#39;d never considered myself a fan of country (though a few years later I&#39;d get very, very emotionally invested in the TV series Nashville, and in fact a song of hers did feature) but I was really taken by her witty and honest lyrics, and catchy refrains.&lt;/p&gt;
+&lt;p&gt;A few years later in 2013 she released this absolute dynamite record, &lt;em&gt;The Stand-In&lt;/em&gt;, a vintage-flavoured record full of excellent writing, velvety vocals and heartbreak. If you don&#39;t like country, don&#39;t be put off: it&#39;s more kind of alternative country.&lt;/p&gt;
+&lt;p&gt;She then promptly disappeared for about ten years only to surface with a new album last year (&lt;em&gt;Cazimi&lt;/em&gt;). But The Stand-In is still my favourite.&lt;/p&gt;
+&lt;p&gt;Top track: &lt;em&gt;No One To Call&lt;/em&gt; is a short one, but a bittersweet plea from a lonely life on the road.&lt;/p&gt;
+</content>
+    </entry>
+</feed>

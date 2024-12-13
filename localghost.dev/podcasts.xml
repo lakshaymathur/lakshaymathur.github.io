@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>localghost.dev - posts about podcasts</title>
+  <subtitle>A feed of the latest podcast recommendations from localghost.dev</subtitle>
+  <link href="https://localghost.dev/podcasts.xml" rel="self"/>
+  <link href="https://localghost.dev/"/>
+  <updated>2023-12-24T00:00:00Z</updated>
+  <id>https://localghost.dev/</id>
+  <author>
+    <name>Sophie Koonin</name>
+    <email>sophie@localghost.dev</email>
+  </author>
+    
+    <entry>
+      <title>A good podcast: Twenty Thousand Hertz</title>
+      <link href="https://localghost.dev/blog/a-good-podcast-twenty-thousand-hertz/"/>
+      <updated>2023-12-24T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/a-good-podcast-twenty-thousand-hertz/</id>
+      <content type="html">&lt;p&gt;Everything you&#39;ve ever wanted to know about sound, and things you didn&#39;t know you wanted to know but are glad you learned, such as:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;why all film trailers sound the same with that &lt;a href=&quot;https://www.20k.org/episodes/boojstrikesback&quot;&gt;deep &amp;quot;booj&amp;quot; noise&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;how &lt;a href=&quot;https://www.20k.org/episodes/spaceaudity&quot;&gt;NASA ran live audio from the Moon&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;how the &lt;a href=&quot;https://www.20k.org/episodes/sulsul&quot;&gt;language in The Sims&lt;/a&gt; came about, and the people who voice it&lt;/li&gt;
+&lt;li&gt;the history of &lt;a href=&quot;https://www.20k.org/episodes/tadaitswindows&quot;&gt;Windows startup sounds&lt;/a&gt;&lt;/li&gt;
+&lt;li&gt;the &lt;a href=&quot;https://www.20k.org/episodes/loudnesswars&quot;&gt;Loudness Wars&lt;/a&gt;, aka the reason so much popular music from the last few decades is just badly mastered&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An additional treat is the Mystery Sound competition they run every episode, where they play a snippet of an obscure (or sometimes very familiar) sound, and listeners can submit their guesses. Everything from the &lt;a href=&quot;https://www.youtube.com/watch?v=q_slAJmZBeQ&quot;&gt;Gracie Films tag&lt;/a&gt; at the end of the Simpsons, to &lt;a href=&quot;https://www.youtube.com/watch?v=tGzxq5qopoc&quot;&gt;herring farts&lt;/a&gt;. Every year they do a Mystery Sound Game Show episode, and &lt;a href=&quot;https://www.20k.org/episodes/tournamentofchampions&quot;&gt;this year&#39;s&lt;/a&gt; is hilarious. There are some sounds in there that will no doubt trigger Pavlovian reactions for anyone listening.&lt;/p&gt;
+</content>
+    </entry>
+    
+    <entry>
+      <title>A good podcast: If Books Could Kill</title>
+      <link href="https://localghost.dev/blog/a-good-podcast-if-books-could-kill/"/>
+      <updated>2023-07-16T00:00:00Z</updated>
+      <id>https://localghost.dev/blog/a-good-podcast-if-books-could-kill/</id>
+      <content type="html">&lt;p&gt;Michael Hobbes and Peter Shamshiri take us through some of the biggest &amp;quot;self-help&amp;quot;/pseudoscience books from the last few decades and deservedly tear them apart.&lt;/p&gt;
+&lt;p&gt;Some of the worst relationship books are here – &lt;em&gt;Men Are From Mars, Women Are From Venus&lt;/em&gt;, &lt;em&gt;The 5 Love Languages&lt;/em&gt;, &lt;em&gt;The Rules&lt;/em&gt; and &lt;em&gt;The Game&lt;/em&gt; (yes, that dreadful pickup artist one) – alongside pop-economics and pop-psychology rubbish such as &lt;em&gt;Freakonomics&lt;/em&gt; and &lt;em&gt;Atomic Habits&lt;/em&gt;. One of the funniest podcasts I&#39;ve listened to in a while, and honestly gobsmacking that these books were so well-received in the first place. I feel like this should be called &amp;quot;Citation Needed: The Podcast&amp;quot;.&lt;/p&gt;
+</content>
+    </entry>
+</feed>
